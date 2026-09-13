@@ -12,6 +12,10 @@ The system is designed around **controlled tool use and read-only source data**.
 
 ![ParcelPilot Architecture](docs/architecture.png)
 
+## 🎥 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/1KyzPVahwV0/maxresdefault.jpg)](https://youtu.be/1KyzPVahwV0)
+
 ### Request Flow
 
 ```text
